@@ -3,6 +3,6 @@ layout: default
 ---
 Providing artifical intelligence solutions to marketing and healthcare.
 
-A joint venture with Abhivyakti Ahuja, a gifted undergraduate candidate with a double major in neuroscience and computer science.
+A startup created by Abhivyakti Ahuja and William Song.
 
 More will be added soon! Stay tuned!
