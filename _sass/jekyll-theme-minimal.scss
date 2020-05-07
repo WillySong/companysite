@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+  font-size:18px;
 }
 
 h1, h2, h3 {
@@ -23,7 +24,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:24px;
 }
 
 h2 {
@@ -126,14 +127,6 @@ ul.downloads {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
-}
-
-.downloads li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-.downloads li:last-child a {
-  border-radius:0 5px 5px 0;
 }
 
 .downloads a {
