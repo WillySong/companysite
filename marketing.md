@@ -12,4 +12,6 @@ AIphrodite predicts a posts’ performance on social media, prescribing a quanti
 
 AIphrodite is still in development.
 
+Interested? [Sign up for our mailing list.](https://docs.google.com/forms/d/e/1FAIpQLScpou7E7yFfx01bxw7YyR8watQ2KmEz-BtHsyQ0aLyZGq48Tw/viewform?usp=sf_link)
+
 [back](./)
